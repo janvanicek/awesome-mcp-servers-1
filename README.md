@@ -1105,6 +1105,7 @@ Designed to increase your Growth 🚀"
  - [Kadoa MCP Server](https://mcp.pipedream.com/app/kadoa) - AI-powered no-code platform. Empowering data enthusiasts with AI magic! 🚀 No-code platform for effortless data workflows. Extract, transform, and conquer! 🌐🔍 #DataNinja
  - [Kafka MCP Server](https://mcp.pipedream.com/app/kafka) - Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
  - [Kaggle MCP Server](https://mcp.pipedream.com/app/kaggle) - Your Machine Learning and Data Science Community
+ - [Keboola MCP Server](https://github.com/keboola/keboola-mcp-server) - Build robust data workflows, integrations, and analytics on a single intuitive platform.
  - [Klazify MCP Server](https://mcp.pipedream.com/app/klazify) - The most accurate Content Classification API.
  - [Klipfolio MCP Server](https://mcp.pipedream.com/app/klipfolio) - "Klipfolio is the new way everyday people and their teams make informed decisions, backed by data.
 
